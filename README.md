@@ -11,6 +11,6 @@ Our Food Delivery App connects users with nearby restaurants, allowing them to b
 |1147/15| Noah Abera | Quality Assurance and testing |
 # 🎨 Figma Design Board
 click the link below to view the figma design
-*https://www.figma.com/design/aNBCOtybPwOdYxDyTlR4lh/desalegnalemayehu11-s-team-library?node-id=3314-3&t=ENNVZw3HKvaX6ik1-1*
+*https://www.figma.com/design/aNBCOtybPwOdYxDyTlR4lh/desalegnalemayehu11-s-team-library?node-id=3314-3&t=LI1TBns91rihF9H1-1*
 # Jira Project Board
 Click the link below for jira board
