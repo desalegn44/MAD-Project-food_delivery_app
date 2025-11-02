@@ -14,3 +14,5 @@ click the link below to view the figma design
 *https://www.figma.com/design/aNBCOtybPwOdYxDyTlR4lh/desalegnalemayehu11-s-team-library?node-id=3314-3&t=33pvfkqBzh3XPXrm-1*
 # Jira Project Board
 Click the link below for jira board
+
+*https://dawitpaulos49.atlassian.net/jira/software/projects/GD/boards/34/backlog?atlOrigin=eyJpIjoiN2VhMGEzZTI1NWU1NDAwYmFjNmIxNWNhZjQ4M2Y2YmUiLCJwIjoiaiJ9*
